@@ -21,7 +21,7 @@ pkg install git
 rm -rf SMS-BOMBER
 git clone --depth=1 https://github.com/JOY-XII/SMS-BOMBER.git
 cd SMS-BOMBER
-python M-BOMBER.py
+python M-Bomber.py
 ```
 ## TOOLS OVERVIEW 
-![Screenshot of the Script](Picsart_24-11-17_04-41-28-133.jpg)
+![Screenshot of the Script](Picsart_24-11-21_17-57-23-625.jpg)
